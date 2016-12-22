@@ -1,1 +1,24 @@
 https://holidayhackchallenge.com/2016/
+
+twitter
+@santawclaus
+https://twitter.com/SantaWClaus
+
+Instagram 
+@santawclaus
+https://www.instagram.com/santawclaus/
+
+Mounting Pi Image
+sudo mount -v -o offset=70254592 -t ext4 cranbian-jessie.img pi-root/
+
+John the Pi Image
+unshadow ./passwd ./shadow > ../../pwlist
+john --wordlist=/home/jason/Downloads/rockyou.txt -rules pwlist
+cranpi:yummycookies:1000:1000:,,,:/home/cranpi:/bin/bash
+
+
+For answer #1
+Dump the tweets to a CSV file using https://gist.github.com/yanofsky/5436496
+Viewing the resulting file in a large window the text is clear in ASCII Art
+
+
