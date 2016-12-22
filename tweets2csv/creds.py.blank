@@ -1,0 +1,7 @@
+#Twitter API credentials
+login = {
+	"consumer_key" : "",
+	"consumer_secret" : "",
+	"access_key" : "",
+	"access_secret" :""
+}
